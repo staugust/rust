@@ -1,0 +1,12 @@
+[workspace]
+members = [
+  "lenum",
+  "lstruct",
+  "hello_cargo",
+  "minigrep",
+  "ownership",
+  "hello_macro",
+  "hello_macro/hello_macro_derive",
+  "use_macro",
+  "webserver",
+]
