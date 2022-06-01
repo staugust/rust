@@ -10,5 +10,14 @@ members = [
   "use_macro",
   "webserver",
   "learn-rust",
-  "learn-rust/option"
+  "learn-rust/option",
+  "learn-rust/result",
+  "learn-rust/lifetimes",
+  "learn-rust/generic",
+  "learn-rust/iterator",
+  "learn-rust/visibility",
+  "learn-rust/modules",
+  "learn-rust/testcase",
+  "learn-rust/cratetest",
+  "learn-rust/rusty_journal"
 ]
